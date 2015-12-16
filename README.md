@@ -34,13 +34,13 @@
 #### Function definitions to generate the mandelbrot set.
 ## <u>Datasets</u>
 ### This folder contains several interesting plots and views of both mandelbrot set and julia set.  See data.md within this directory for additional detail.
-#### juliaset (.25 .0015 zoom).jpg
-#### juliaset (.25 .0015).jpg
-#### juliaset (-.4 .6 zoom).jpg
-#### juliaset (-.4 .6).jpg
+#### juliaset_.25_.0015_zoom.jpg
+#### juliaset_.25_.0015.jpg
+#### juliaset_-.4_.6_zoom.jpg
+#### juliaset_-.4_.6.jpg
 #### mandelbrot.jpg
-#### mandelbrot (zoom).jpg
-#### mandelbrot (super zoom).jpg
+#### mandelbrot_zoom.jpg
+#### mandelbrot_super_zoom.jpg
 
 
 
